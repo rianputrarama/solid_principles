@@ -1,5 +1,7 @@
 # IntelliJ
-.idea
 .iml
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
 out/
 
